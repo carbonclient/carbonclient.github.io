@@ -5,10 +5,10 @@
     min-width:100px;
     min-height:50px;
     margin-right:10px;
-    background:red;
     white-space:normal;
 }
 .parent{
+    margin-top:35%;
     white-space:nowrap;
 }
 body {margin: auto; font: 12.0px Helvetica; background-color: #181818; color: #FFFFFF;}
